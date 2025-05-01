@@ -22,7 +22,7 @@ A Django web application that provides users with daily AI image generation chal
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd daily-ai-challenge
+cd into the root folder
 ```
 
 2. Create and activate a virtual environment:
@@ -48,7 +48,6 @@ DEBUG=True
 
 5. Run migrations:
 ```bash
-python manage.py makemigrations
 python manage.py migrate
 ```
 
